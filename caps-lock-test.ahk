@@ -15,3 +15,4 @@ CapsLock & b::Run, ark-craft-manual.ahk
 CapsLock & r::Run, ark-repair.ahk
 CapsLock & t::Run, ark-transfer-sand.ahk
 CapsLock & y::Run, ark-transfer-wood.ahk
+CapsLock & p::Run, ark-get-pos.ahk
